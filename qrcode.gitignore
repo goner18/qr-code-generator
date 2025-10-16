@@ -1,0 +1,7 @@
+node_modules/
+.vscode/
+*.log
+*.tmp
+*.jpg
+*.png
+.DS_Store
